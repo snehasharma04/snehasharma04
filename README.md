@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snehasharma04
-- first year at banasthali vidyapith
+- BV'25
 
 
 --->I know a little about python and im currently learning c language!
