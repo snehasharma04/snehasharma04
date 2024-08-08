@@ -2,7 +2,7 @@
 - BV'25
 
 
---- 🙋I'm currently a 3rd year student in Banasthali Vidyapith pursuing B.tech in Information Technology. 
+--- 🙋I'm currently a 4th year student in Banasthali Vidyapith pursuing B.tech in Information Technology. 
 
 --- My skills- Python,C++,HTML/CSS,JS,unity
 
